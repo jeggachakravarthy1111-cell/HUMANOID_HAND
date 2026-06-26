@@ -1,3 +1,11 @@
+
+
+Uploading spiderman_gesture_blacksuit.mp4…
+
+
+
+https://github.com/user-attachments/assets/ad272048-60c4-41f7-9768-c394f4de0bcb
+
 # HUMANOID_HAND 🦾
 
 **A vision-controlled humanoid robotic hand that mirrors human hand movement in real time.**
