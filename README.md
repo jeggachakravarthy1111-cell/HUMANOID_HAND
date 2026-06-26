@@ -58,13 +58,13 @@ With the landmarks tracked, the next step was the actual maths: calculating the 
 
 ### 5. First physical hand — straw joints
 
-The first physical build of the hand, fabricated by hand from paper and card, using drinking straws as the first version of the finger joints.
+The first physical build of the hand, fabricated by hand from cardboard , using the BENDABLE PART of drinking straws as the first version of the finger joints.
 
 ![First hand build using straws as finger joints](images/04_hand_straws.jpg)
 
 ### 6. Upgraded hand — hinged joints (Spider-Man sign 🕷️)
 
-The straw joints were then replaced with proper **hinges** for stronger, more reliable finger articulation — shown here holding the Spider-Man sign. This is the version in the hero image at the top.
+The straw joints were then replaced with proper HANDMADE **hinges** for stronger, more reliable finger articulation — shown here holding the Spider-Man sign. This is the version in the hero image at the top.
 
 With the hinged joints in place, the fingers can actually **curl and extend independently** — the clip below shows the hand starting from an open palm, folding the middle and ring fingers down, and landing cleanly on the Spider-Man sign. This is the proof that the mechanical articulation works, ready to be driven by the tracked joint angles.
 
