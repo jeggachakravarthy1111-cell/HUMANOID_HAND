@@ -74,7 +74,7 @@ With the hinged joints in place, the fingers can actually **curl and extend inde
 | Arduino Mega | Receives angle data and drives the servos |
 | PCA9685 16-channel driver | Expands the Arduino to control many servos over I²C |
 | MG996R / MG90S / SG90 servos | The "muscles" — one set per finger + wrist |
-| Hand-fabricated frame | Paper / card fingers with hinged joints |
+| Hand-fabricated frame | cardboard fingers with hinged joints made with toothpicks |
 | 12V external supply | Powers the servos (shared ground with Arduino) |
 
 ## Software
