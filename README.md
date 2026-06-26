@@ -58,7 +58,11 @@ The first physical build of the hand, fabricated by hand from paper and card, us
 
 The straw joints were then replaced with proper **hinges** for stronger, more reliable finger articulation — shown here holding the Spider-Man sign. This is the version in the hero image at the top.
 
-> 🎥 **Demo videos** of the hand moving are included in the `media/` folder.
+With the hinged joints in place, the fingers can actually **curl and extend independently** — the clip below shows the hand starting from an open palm, folding the middle and ring fingers down, and landing cleanly on the Spider-Man sign. This is the proof that the mechanical articulation works, ready to be driven by the tracked joint angles.
+
+> 🎥 `media/demo_spiderman_gesture.mp4` — the hinged hand forming the Spider-Man sign 🕷️
+>
+> More demo videos of the hand and the live tracking are in the `media/` folder.
 
 ---
 
